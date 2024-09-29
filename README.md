@@ -10,6 +10,6 @@
 	</style>
 </head>
 <body>
-	<img src="https://media.giphy.com/media/3o84sBmXcUgvW/giphy.gif" alt="Hehe Boy GIF" style="display: block; margin: 0 auto;">
+	<img src="https://giphy.com/embed/hhSa6lfiw5KLe" alt="Hehe Boy GIF" style="display: block; margin: 0 auto;">
 </body>
 </html>
